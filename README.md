@@ -5,6 +5,7 @@
 REACT에 관심이 많고, 새로운 기술에도 관심이 많습니다. 요즘은 webSocket에 관심이 많습니다.
 
 포트폴리오 페이지  : https://winbigcoms.github.io/myPage/
+
 이력서 페이지 : https://www.notion.so/2c01f65f48444e568a03b3fb397d5307
 <!--
 **winbigcoms/winbigcoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
