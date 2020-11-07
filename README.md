@@ -1,5 +1,8 @@
 ## frontend developer 
 
+패스트 캠퍼스 프론트엔드 스쿨을 수료한 주니어 개발자입니다. 
+
+REACT에 관심이 많고, 새로운 기술에도 관심이 많습니다. 요즘은 webSocket에 관심이 많습니다.
 <!--
 **winbigcoms/winbigcoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
