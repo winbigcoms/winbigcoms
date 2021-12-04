@@ -1,7 +1,5 @@
 ## frontend developer 
 
-REACT에 관심이 많고, 새로운 기술에도 관심이 많습니다. 요즘은 webSocket, React-Native, typescript에 관심이 많습니다.
-
 현재 imform에서 웹 프론트엔드로 일하고 있습니다.
 
 포트폴리오 페이지  : https://winbigcoms.github.io/myPage/
