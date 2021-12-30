@@ -4,7 +4,7 @@
 
 포트폴리오 페이지  : https://winbigcoms.github.io/myPage/
 
-이력서 페이지 : https://www.notion.so/2c01f65f48444e568a03b3fb397d5307
+이력서 페이지 : https://www.notion.so/1-c12a6f99ed84460f9af544af05dc9e82
 <!--
 **winbigcoms/winbigcoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
