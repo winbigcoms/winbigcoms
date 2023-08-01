@@ -2,9 +2,7 @@
 
 현재 imform에서 웹 프론트엔드로 일하고 있습니다.
 
-포트폴리오 페이지  : https://winbigcoms.github.io/myPage/
-
-이력서 페이지 : https://www.notion.so/1-c12a6f99ed84460f9af544af05dc9e82
+포트폴리오 페이지  : https://www.white-win.dev/whoami
 <!--
 **winbigcoms/winbigcoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
