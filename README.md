@@ -1,6 +1,6 @@
 ## frontend developer 
 
-현재 imform에서 웹 프론트엔드로 일하고 있습니다.
+팀원들과 시너지를 낼 수 있는 프론트엔드 개발자 백승일입니다.
 
 포트폴리오 페이지  : https://www.white-win.dev/whoami
 <!--
